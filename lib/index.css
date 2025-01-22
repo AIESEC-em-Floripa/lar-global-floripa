@@ -35,7 +35,7 @@ form {
 
 .subscription_form_title {
   font-size: 50px;
-  font-weight: 200;
+  font-weight: 300;
   text-transform: uppercase;
   color: #030712;
 }
@@ -91,8 +91,8 @@ input::placeholder {
   }
 
   .subscription_form_title {
-    font-size: 30px;
-    font-weight: 300;
+    font-size: 35px;
+    font-weight: 500;
   }
 
   .subscription_form_subtitle {
@@ -115,7 +115,7 @@ input::placeholder {
 .faq_title {
   text-align: center;
   font-size: 40px;
-  font-weight: 300;
+  font-weight: 400;
   padding-bottom: 50px;
 }
 
